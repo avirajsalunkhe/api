@@ -73,6 +73,7 @@ curl -X GET http://localhost:5000/api/data
 
 ---
 
+
 ## 👨‍💻 Author
 **Aviraj Salunkhe**  
 📧 [avirajsalunkhe1@gmail.com](mailto:avirajsalunkhe1@gmail.com)  

@@ -4,6 +4,7 @@
 This project is a **Node.js-based API** that connects to a **MongoDB** database to handle data storage and retrieval.  
 It is designed to be lightweight, scalable, and easy to integrate with front-end applications or mobile apps.  
 The API can be used for various purposes such as managing user data, processing form submissions, or serving dynamic content.
+Also to demonstrate how api works actually.
 
 ---
 
